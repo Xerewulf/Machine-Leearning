@@ -1,3 +1,3 @@
 # Machine-Leearning
 
-HEre is the Machine Learning code for kaggle compattion
+Here is the Machine Learning code for kaggle compattion that my team toke the 1st place!
